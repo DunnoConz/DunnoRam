@@ -1,0 +1,8 @@
+name: DunnoTemplate
+version: 1.2.1
+api-version: 1.19
+author: DunnoConz
+main: dev.DunnoConz.DunnoRam.Main
+
+commands:
+   ram:
